@@ -1,0 +1,4 @@
+name = "C2C"
+uuid = "62c5bd75-bccd-4aa9-90e7-6aff8be19bc2"
+authors = ["Reuben Gardos Reid <5456207+ReubenJ@users.noreply.github.com>"]
+version = "0.1.0"
